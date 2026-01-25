@@ -1,0 +1,5 @@
+{
+  "ABC123": { "enabled": true },
+  "TESTKEY": { "enabled": true },
+  "REVOKED1": { "enabled": false }
+}
